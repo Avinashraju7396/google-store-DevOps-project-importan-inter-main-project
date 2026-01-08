@@ -15,6 +15,7 @@ db = {
     "user": "admin",
     "password": "Cloud1234",
     "database": "" # ===> your db
+
 }
 
 # -------------------------
